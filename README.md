@@ -9,18 +9,19 @@
 
 ---
 
-### 👨‍💻 About Me:
-I’m a **tech enthusiast**, **problem-solver**, and **innovation seeker** who loves turning ideas into impactful solutions! With a strong foundation in **software development**, I thrive in fast-paced environments where creativity meets technology. Whether it’s optimizing **backend systems**, crafting **seamless user experiences**, or tackling **complex challenges**, I bring a fresh perspective and a passion for efficiency.
-
-Fueled by curiosity and a drive to innovate, I embrace challenges that push me to grow and think outside the box. I’m always looking for exciting opportunities to collaborate, build, and make a real difference in the ever-evolving tech world.
-
-⚡ Fun fact: **I spend more time debugging than sleeping, but hey, that's how you learn and grow!** 😆💡
-
-💬 **Ask me about my projects, soft skills, or anything related to software development and information technology!**
+### 👨‍💻 ABOUT ME:
+<div align="center">
+I’m a tech enthusiast, problem-solver, and innovation seeker who loves turning ideas into impactful solutions! With a strong foundation in software development, I thrive in fast-paced environments where creativity meets technology. Whether it’s optimizing backend systems, crafting seamless user experiences, or tackling complex challenges, I bring a fresh perspective and a passion for efficiency. Fueled by curiosity and a drive to innovate, I embrace challenges that push me to grow and think outside the box. I’m always looking for exciting opportunities to collaborate, build, and make a real difference in the ever-evolving tech world.
+ 
+   <br><br>
+  ⚡ Fun fact: **I spend more time debugging than sleeping, but hey, that's how you learn and grow!** 😆💡
+  <br><br>
+  💬 **Ask me about my projects, soft skills, or anything related to software development and information technology!**
+</div>
 
 ---
 
-### 💼 My Projects:
+### 💼 MY PROJECTS:
 
 - 🔭 **Student Registration System** (C# - Windows Form):  
   A student registration system designed using **Object-Oriented Programming** principles, with a strong emphasis on **inheritance** and **C#** Windows Forms.  
@@ -39,13 +40,16 @@ Fueled by curiosity and a drive to innovate, I embrace challenges that push me t
 
 ---
 
-### 📫 How to reach me:
+### 📫 HOW TO REACH ME:
 Feel free to reach out via email:  
 **yolandamsingale@gmail.com**
 
+Phone Number:  
+**060 411 5706**
+
 ---
 
-### 🌐 Connect with me:
+### 🌐 CONNECT WITH ME:
 <p align="center">
   <a href="https://www.linkedin.com/in/yolanda-msingale-b7b77a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yolanda msingale" height="30" width="40" />
@@ -54,7 +58,7 @@ Feel free to reach out via email:
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ LANGUAGES AND TOOLS, WORK WITH OR USE:
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -132,5 +136,3 @@ Feel free to reach out via email:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
----
