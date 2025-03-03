@@ -136,3 +136,10 @@ Phone Number:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### 🌍 CV / Online Portfolio
+
+You can check out my portfolio at:  
+[My Portfolio](https://67c5cb9c7fbc5f38ebbc2af0--zesty-malasada-0ecd40.netlify.app/#home)
