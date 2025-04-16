@@ -1,4 +1,4 @@
-<!-- ANIMATED SVG TITLE WITH COLOR POP -->
+<!-- ANIMATED MAIN TITLE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Yolanda+Msingale;💻+Software+Development+Enthusiast+|+%F0%9F%8E%93+IT+Graduate+in+the+Making" alt="Typing SVG" />
 </p>
@@ -10,7 +10,10 @@
 
 ---
 
-### 👩‍💻 About Me
+<!-- ABOUT ME SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A1F7&center=true&vCenter=true&width=400&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+</p>
 
 Hey there! I'm Yolanda Msingale— a curious, creative, and committed individual passionate about solving problems and building impactful tech solutions! Whether it’s developing robust backends, designing intuitive interfaces, or crafting full-stack magic, I love every bit of the process.  
 
@@ -24,41 +27,48 @@ Hey there! I'm Yolanda Msingale— a curious, creative, and committed individual
 
 ---
 
-### 🧠 Skills Snapshot
+<!-- SKILLS SNAPSHOT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D98A&center=true&vCenter=true&width=400&lines=%F0%9F%A7%A0+Skills+Snapshot" alt="Skills" />
+</p>
 
-#### 💻 Languages & Frameworks
+#### 💻 Languages & Frameworks  
 `Java` `C#` `C++` `JavaScript` `TypeScript` `Python` `SQL`  
 `HTML5` `CSS3` `Bootstrap` `Node.js` `Spring Boot` `JSP/Servlets` `Swing`  
 
-#### ☁️ Tools & Platforms
+#### ☁️ Tools & Platforms  
 `Android Studio` `Visual Studio` `PostgreSQL` `MySQL` `MongoDB` `Docker`  
 `Figma` `Sketch` `Git` `GitHub` `AWS` `Azure`
 
 ---
 
-### 🚀 Projects I'm Proud Of
+<!-- PROJECTS SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFC107&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Projects+I'm+Proud+Of" alt="Projects" />
+</p>
 
-#### 📚 Student Registration System *(C# Windows Forms)*
+#### 📚 Student Registration System *(C# Windows Forms)*  
 Built with OOP concepts, focusing on **inheritance** and UI development using Windows Forms.  
 🔗 [View Project](https://github.com/YolandaMsingale/Programming-Project-CSHARP.git)
 
-#### 🍕 Pizza Restaurant Ordering System *(Database Admin)*
+#### 🍕 Pizza Restaurant Ordering System *(Database Admin)*  
 Designed and implemented a database for a local pizza shop using **ER Modeling** and **SQL CRUD operations**.  
 🔗 [View Project](https://github.com/YolandaMsingale/Database-Administration-Project.git)
 
-#### ☕ Java Project *(Tomcat, JDBC, GUI, PostgreSQL)*
+#### ☕ Java Project *(Tomcat, JDBC, GUI, PostgreSQL)*  
 A robust desktop app using **Swing GUI**, **JDBC** for DB integration, and **JSP/Servlets** for dynamic content delivery.  
 🔗 [View Project](https://github.com/YolandaMsingale/Java-Project.git)
 
-#### 🌍 Explore More
+#### 🌍 Explore More  
 📂 [All My GitHub Repositories](https://github.com/YolandaMsingale?tab=repositories)
 
 ---
 
-### 📫 How to Reach Me
+<!-- CONTACT SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FA4EAB&center=true&vCenter=true&width=400&lines=%F0%9F%93%AB+How+to+Reach+Me" alt="Contact" />
+</p>
 
-- ✉️ **Email:** yolandamsingale@gmail.com  
-- 📱 **Phone:** 060 411 5706  
 - 🌐 **Portfolio:** [My Portfolio Website](https://67c5cb9c7fbc5f38ebbc2af0--zesty-malasada-0ecd40.netlify.app/#home)
 
 <p align="center">
@@ -75,15 +85,22 @@ A robust desktop app using **Swing GUI**, **JDBC** for DB integration, and **JSP
 
 ---
 
-### 🛠️ Technologies & Tools I Use
+<!-- TECHNOLOGIES SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4B93FF&center=true&vCenter=true&width=400&lines=%F0%9F%9B%A0%EF%B8%8F+Technologies+%26+Tools+I+Use" alt="Tools" />
+</p>
 
 <p align="center">
+  <!-- Add the icons to each technology/tool -->
   <img src="https://skillicons.dev/icons?i=java,cs,cpp,py,js,ts,html,css,bootstrap,nodejs,react,mysql,postgres,mongodb,sqlite,docker,aws,azure,figma,git,vscode,androidstudio,spring" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<!-- GITHUB STATS -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YolandaMsingale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -93,8 +110,9 @@ A robust desktop app using **Swing GUI**, **JDBC** for DB integration, and **JSP
 
 ---
 
-### 🌟 Let's Connect & Build Something Awesome Together!
+<!-- FINAL CTA -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=%F0%9F%8C%9F+Let's+Connect+%26+Build+Something+Awesome+Together!" alt="Let's Connect" />
+</p>
 
 Thanks for stopping by! Don’t hesitate to reach out, collaborate, or just say hi 👋
-
----
