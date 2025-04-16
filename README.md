@@ -112,7 +112,7 @@ A robust desktop app using **Swing GUI**, **JDBC** for DB integration, and **JSP
 
 <!-- FINAL CTA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=%F0%9F%8C%9F+Let's+Connect+%26+Build+Something+Awesome+Together!" alt="Let's Connect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=%F0%9F%8C%9F+Let's+Connect+%26+Build+Something+Awesome!" alt="Let's Connect" />
 </p>
 
 Thanks for stopping by! Don’t hesitate to reach out, collaborate, or just say hi 👋
