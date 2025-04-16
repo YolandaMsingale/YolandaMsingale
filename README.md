@@ -1,145 +1,100 @@
-<h1 align="center">Hi 👋, I'm Yolanda Msingale</h1>
-<h3 align="center">Software Development Enthusiast | IT Graduate in the Making</h3>
-
----
-
+<!-- ANIMATED SVG TITLE WITH COLOR POP -->
 <p align="center">
-  <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Yolanda+Msingale;💻+Software+Development+Enthusiast+|+%F0%9F%8E%93+IT+Graduate+in+the+Making" alt="Typing SVG" />
+</p>
+
+<!-- CODING GIF -->
+<p align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="coding-gif" />
 </p>
 
 ---
 
-### 👨‍💻 ABOUT ME:
-<div align="center">
-I’m a tech enthusiast, problem-solver, and innovation seeker who loves turning ideas into impactful solutions! With a strong foundation in software development, I thrive in fast-paced environments where creativity meets technology. Whether it’s optimizing backend systems, crafting seamless user experiences, or tackling complex challenges, I bring a fresh perspective and a passion for efficiency. Fueled by curiosity and a drive to innovate, I embrace challenges that push me to grow and think outside the box. I’m always looking for exciting opportunities to collaborate, build, and make a real difference in the ever-evolving tech world.
- 
-   <br><br>
-  ⚡ Fun fact: **I spend more time debugging than sleeping, but hey, that's how you learn and grow!** 😆💡
-  <br><br>
-  💬 **Ask me about my projects, soft skills, or anything related to software development and information technology!**
-</div>
+### 👩‍💻 About Me
+
+Hey there! I'm Yolanda Msingale— a curious, creative, and committed individual passionate about solving problems and building impactful tech solutions! Whether it’s developing robust backends, designing intuitive interfaces, or crafting full-stack magic, I love every bit of the process.  
+
+- 💡 Tech enthusiast & constant learner  
+- 🧠 Strong foundation in Software Development & OOP  
+- 🔧 Love working on backend systems and database designs  
+- 🌱 Currently learning more about **Cloud Platforms** (AWS, Azure), **Spring Boot**, and **Docker**  
+- 🤝 Open to collaboration, mentorship, and building something awesome  
+
+> ⚡ **Fun Fact:** I spend more time debugging than sleeping, but hey, that’s how you grow! 😆  
 
 ---
 
-### 💼 MY PROJECTS:
+### 🧠 Skills Snapshot
 
-- 🔭 **Student Registration System** (C# - Windows Form):  
-  A student registration system designed using **Object-Oriented Programming** principles, with a strong emphasis on **inheritance** and **C#** Windows Forms.  
-  [View Project](https://github.com/YolandaMsingale/Programming-Project-CSHARP.git)
+#### 💻 Languages & Frameworks
+`Java` `C#` `C++` `JavaScript` `TypeScript` `Python` `SQL`  
+`HTML5` `CSS3` `Bootstrap` `Node.js` `Spring Boot` `JSP/Servlets` `Swing`  
 
-- 🔭 **Pizza Restaurant Ordering System** (Database Administration):  
-  Tasked with designing, implementing, and documenting a database system for a local pizza restaurant. It includes **ER modeling** and **SQL queries** for CRUD operations.  
-  [View Project](https://github.com/YolandaMsingale/Database-Administration-Project.git)
-
-- 🔭 **Java Project (Apache Tomcat, GlassFish)**:  
-  A project that tests **Core Java**, **OOP principles**, **GUI with Swing**, and integrates **JDBC** for **PostgreSQL** and **JSP/Servlets**.  
-  [View Project](https://github.com/YolandaMsingale/Java-Project.git)
-
-- 👨‍💻 **All Projects**:  
-  [View my full repository of projects here](https://github.com/YolandaMsingale?tab=repositories)
+#### ☁️ Tools & Platforms
+`Android Studio` `Visual Studio` `PostgreSQL` `MySQL` `MongoDB` `Docker`  
+`Figma` `Sketch` `Git` `GitHub` `AWS` `Azure`
 
 ---
 
-### 📫 HOW TO REACH ME:
-Feel free to reach out via email:  
-**yolandamsingale@gmail.com**
+### 🚀 Projects I'm Proud Of
 
-Phone Number:  
-**060 411 5706**
+#### 📚 Student Registration System *(C# Windows Forms)*
+Built with OOP concepts, focusing on **inheritance** and UI development using Windows Forms.  
+🔗 [View Project](https://github.com/YolandaMsingale/Programming-Project-CSHARP.git)
+
+#### 🍕 Pizza Restaurant Ordering System *(Database Admin)*
+Designed and implemented a database for a local pizza shop using **ER Modeling** and **SQL CRUD operations**.  
+🔗 [View Project](https://github.com/YolandaMsingale/Database-Administration-Project.git)
+
+#### ☕ Java Project *(Tomcat, JDBC, GUI, PostgreSQL)*
+A robust desktop app using **Swing GUI**, **JDBC** for DB integration, and **JSP/Servlets** for dynamic content delivery.  
+🔗 [View Project](https://github.com/YolandaMsingale/Java-Project.git)
+
+#### 🌍 Explore More
+📂 [All My GitHub Repositories](https://github.com/YolandaMsingale?tab=repositories)
 
 ---
 
-### 🌐 CONNECT WITH ME:
+### 📫 How to Reach Me
+
+- ✉️ **Email:** yolandamsingale@gmail.com  
+- 📱 **Phone:** 060 411 5706  
+- 🌐 **Portfolio:** [My Portfolio Website](https://67c5cb9c7fbc5f38ebbc2af0--zesty-malasada-0ecd40.netlify.app/#home)
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/yolanda-msingale-b7b77a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yolanda msingale" height="30" width="40" />
+  <a href="mailto:yolandamsingale@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🛠️ LANGUAGES AND TOOLS, WORK WITH OR USE:
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/yolanda-msingale-b7b77a302" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://github.com/YolandaMsingale" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌍 CV / Online Portfolio
+### 🛠️ Technologies & Tools I Use
 
-You can check out my portfolio at:  
-[My Portfolio](https://67c5cb9c7fbc5f38ebbc2af0--zesty-malasada-0ecd40.netlify.app/#home)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,py,js,ts,html,css,bootstrap,nodejs,react,mysql,postgres,mongodb,sqlite,docker,aws,azure,figma,git,vscode,androidstudio,spring" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YolandaMsingale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YolandaMsingale&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌟 Let's Connect & Build Something Awesome Together!
+
+Thanks for stopping by! Don’t hesitate to reach out, collaborate, or just say hi 👋
+
+---
