@@ -69,7 +69,7 @@ A robust desktop app using **Swing GUI**, **JDBC** for DB integration, and **JSP
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FA4EAB&center=true&vCenter=true&width=400&lines=%F0%9F%93%AB+How+to+Reach+Me" alt="Contact" />
 </p>
 
-- 🌐 **Portfolio:** [My Portfolio Website](https://67c5cb9c7fbc5f38ebbc2af0--zesty-malasada-0ecd40.netlify.app/#home)  
+- 🌐 **Portfolio:** [My Portfolio Website](https://tubular-raindrop-4e3d2a.netlify.app/)  
 - 🧑‍💻 **Codedex Profile:** [@YolandaMsingale](https://www.codedex.io/@YolandaMsingale)
 
 <p align="center">
