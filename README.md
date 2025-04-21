@@ -1,7 +1,5 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3949bf93-defe-4352-ae56-a20c0468ecd8" alt="github-header-image" />
-</p>
+
+![github-header-image (1)](https://github.com/user-attachments/assets/b06234a0-73b4-49c1-844b-e3b6573edf19)
 
 <!-- ABOUT ME SECTION -->
 <hr />
