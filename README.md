@@ -1,6 +1,6 @@
 <!-- ANIMATED MAIN TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Yolanda+Msingale;💻+Software+Development+Enthusiast+|+%F0%9F%8E%93+IT+Graduate+in+the+Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Yolanda+Msingale;💻+Passionate+Software+Developer+|+Tech+Explorer+%26+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <!-- CODING GIF -->
@@ -15,18 +15,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A1F7&center=true&vCenter=true&width=400&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 </p>
 
-Hey there! I'm Yolanda Msingale— a curious, creative, and committed individual passionate about solving problems and building impactful tech solutions! Whether it’s developing robust backends, designing intuitive interfaces, or crafting full-stack magic, I love every bit of the process.  
+Hey there! I'm Yolanda Msingale — a curious, creative, and committed individual with a deep passion for crafting impactful software solutions. I thrive in building everything from seamless UIs to scalable backends and love exploring the full stack.
 
 - 💡 Tech enthusiast & constant learner  
-- 🧠 Strong foundation in Software Development & OOP  
-- 🔧 Love working on backend systems and database designs  
-- 🌱 Currently learning more about **Cloud Platforms** (AWS, Azure), **Spring Boot**, and **Docker**  
-- 🤝 Open to collaboration, mentorship, and building something awesome  
+- 🧠 Strong foundation in Software Development & OOP principles  
+- 🔧 Passionate about backend systems, databases & clean architecture  
+- ☁️ Currently diving deeper into **Cloud Platforms** (AWS & Azure), **Spring Boot**, and **Docker**  
+- 🤝 Always open to collaboration, mentorship, and new opportunities  
 
-> ⚡ **Fun Fact:** I spend more time debugging than sleeping, but hey, that’s how you grow! 😆  
-
-
-
+> ⚡ **Fun Fact:** I spend more time debugging than sleeping — and I love every second of it! 😆
 
 ---
 
@@ -36,15 +33,15 @@ Hey there! I'm Yolanda Msingale— a curious, creative, and committed individual
 </p>
 
 #### 📚 Student Registration System *(C# Windows Forms)*  
-Built with OOP concepts, focusing on **inheritance** and UI development using Windows Forms.  
+Built using OOP principles and a clean Windows Forms interface for student management.  
 🔗 [View Project](https://github.com/YolandaMsingale/Programming-Project-CSHARP.git)
 
-#### 🍕 Pizza Restaurant Ordering System *(Database Admin)*  
-Designed and implemented a database for a local pizza shop using **ER Modeling** and **SQL CRUD operations**.  
+#### 🍕 Pizza Restaurant Ordering System *(SQL Database)*  
+Designed a functional and normalized database for order processing and inventory using ER modeling and SQL.  
 🔗 [View Project](https://github.com/YolandaMsingale/Database-Administration-Project.git)
 
-#### ☕ Java Project *(Tomcat, JDBC, GUI, PostgreSQL)*  
-A robust desktop app using **Swing GUI**, **JDBC** for DB integration, and **JSP/Servlets** for dynamic content delivery.  
+#### ☕ Java-Based Desktop App *(JDBC, PostgreSQL, JSP)*  
+An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for managing dynamic data with PostgreSQL.  
 🔗 [View Project](https://github.com/YolandaMsingale/Java-Project.git)
 
 #### 🌍 Explore More  
@@ -106,4 +103,4 @@ A robust desktop app using **Swing GUI**, **JDBC** for DB integration, and **JSP
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=%F0%9F%8C%9F+Let's+Connect+%26+Build+Something+Awesome!" alt="Let's Connect" />
 </p>
 
-Thanks for stopping by! Don’t hesitate to reach out, collaborate, or just say hi 👋
+Thanks for stopping by! Feel free to connect, collaborate, or even just say hi 👋 — let's build something extraordinary together!
