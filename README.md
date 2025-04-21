@@ -27,7 +27,7 @@
         </p>
       </td>
       <td width="40%">
-        <img src="https://i.imgflip.com/65efzo.gif" height="360" alt="coding-gif" />
+        <img src="https://i.imgflip.com/65efzo.gif" height="300" alt="coding-gif" />
       </td>
     </tr>
   </table>
