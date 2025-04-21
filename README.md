@@ -25,20 +25,8 @@ Hey there! I'm Yolanda Msingale— a curious, creative, and committed individual
 
 > ⚡ **Fun Fact:** I spend more time debugging than sleeping, but hey, that’s how you grow! 😆  
 
----
 
-<!-- SKILLS SNAPSHOT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D98A&center=true&vCenter=true&width=400&lines=%F0%9F%A7%A0+Skills+Snapshot" alt="Skills" />
-</p>
 
-#### 💻 Languages & Frameworks  
-`Java` `C#` `C++` `JavaScript` `TypeScript` `Python` `SQL`  
-`HTML5` `CSS3` `Bootstrap` `Node.js` `Spring Boot` `JSP/Servlets` `Swing`  
-
-#### ☁️ Tools & Platforms  
-`Android Studio` `Visual Studio` `PostgreSQL` `MySQL` `MongoDB` `Docker`  
-`Figma` `Sketch` `Git` `GitHub` `AWS` `Azure`
 
 ---
 
