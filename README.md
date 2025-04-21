@@ -106,6 +106,19 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
   <span style="color:#FFA500;"><strong>🌟 LET'S CONNECT & BUILD SOMETHING AWESOME!</strong></span>
 </h2>
 
-<p align="center">
-  Thanks for stopping by! Feel free to connect, collaborate, or even just say hi 👋 — let's build something extraordinary together!
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
