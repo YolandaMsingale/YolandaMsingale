@@ -1,12 +1,7 @@
-<!-- HEADER IMAGE -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/85189353-05e0-4574-95cf-598fb8cda330" alt="Header Image" />
-</p>
 
-<!-- ANIMATED MAIN TITLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Yolanda+Msingale;💻+Passionate+Software+Developer+|+Tech+Explorer+%26+Lifelong+Learner" alt="Typing SVG" />
-</p>
+![github-header-image](https://github.com/user-attachments/assets/3949bf93-defe-4352-ae56-a20c0468ecd8)
+
+
 
 <!-- CODING GIF -->
 <p align="center">
