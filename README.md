@@ -5,7 +5,7 @@
 
 <!-- ABOUT ME SECTION -->
 <hr />
-<h2 align="center">
+<h2 align="center" style="font-size: 32px;">
   <span style="color:#00A1F7;"><strong>👩‍💻 ABOUT ME</strong></span>
 </h2>
 
@@ -35,7 +35,7 @@
 
 <!-- PROJECTS SECTION -->
 <hr />
-<h2 align="center">
+<h2 align="center" style="font-size: 32px;">
   <span style="color:#FFC107;"><strong>🚀 PROJECTS I'M PROUD OF</strong></span>
 </h2>
 
@@ -56,7 +56,7 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 
 <!-- CONTACT SECTION -->
 <hr />
-<h2 align="center">
+<h2 align="center" style="font-size: 32px;">
   <span style="color:#FA4EAB;"><strong>📫 HOW TO REACH ME</strong></span>
 </h2>
 
@@ -80,7 +80,7 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 
 <!-- TECHNOLOGIES SECTION -->
 <hr />
-<h2 align="center">
+<h2 align="center" style="font-size: 32px;">
   <span style="color:#4B93FF;"><strong>🛠️ TECHNOLOGIES & TOOLS I USE</strong></span>
 </h2>
 
@@ -90,7 +90,7 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 
 <!-- GITHUB STATS -->
 <hr />
-<h2 align="center">
+<h2 align="center" style="font-size: 32px;">
   <span style="color:#39FF14;"><strong>📊 GITHUB STATS</strong></span>
 </h2>
 
@@ -102,7 +102,7 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 
 <!-- FINAL CTA -->
 <hr />
-<h2 align="center">
+<h2 align="center" style="font-size: 32px;">
   <span style="color:#FFA500;"><strong>🌟 LET'S CONNECT & BUILD SOMETHING AWESOME!</strong></span>
 </h2>
 
@@ -120,5 +120,3 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
