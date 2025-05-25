@@ -58,7 +58,7 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
   <span style="color:#FA4EAB;"><strong>📫 HOW TO REACH ME</strong></span>
 </h2>
 
-- 🌐 **Portfolio:** [My Portfolio Website](https://chipper-cupcake-6f26ff.netlify.app/)  
+- 🌐 **Portfolio:** [My Portfolio Website](https://neon-cheesecake-cf22c2.netlify.app/)  
 - 🧑‍💻 **Codedex Profile:** [@YolandaMsingale](https://www.codedex.io/@YolandaMsingale)
 
 <p align="center">
