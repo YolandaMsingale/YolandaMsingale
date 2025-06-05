@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>🎓 Soon To Be Graduate @Belgium Campus Itversity</h3>
-  <p>📍 Westonaria, 1779</p>
+  <p>📍 WestRand, Gauteng</p>
 </div>
 
 <div align="center">
