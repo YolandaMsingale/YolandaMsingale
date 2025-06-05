@@ -5,6 +5,11 @@
 </p>
 
 <div align="center">
+  <h3>🎓 Soon To Be Graduate @Belgium Campus Itversity</h3>
+  <p>📍 Westonaria, 1779</p>
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td style="vertical-align: top; padding-right: 30px;" width="60%">
@@ -119,7 +124,6 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,html,css,bootstrap,nodejs,react,mysql,postgres,mongodb,sqlite,docker,aws,azure,figma,git,vscode,androidstudio,spring" />
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
 </h4>
 
  
@@ -146,23 +150,23 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- 💬 CONTACT TITLE SVG -->
+
+
+
+
+ 
+      
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=GAMES" alt="Contact Typing SVG">
 </p>
 
-<!-- 🦜 PARROT EMOJIS / 🌐 https://github.com/seanprashad/slackmoji/ -->
-<p align="center">
-  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-trinidadandtobago.gif" height="60" width="60">
-  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-trinidadandtobago.gif" height="60" width="60">
-  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-trinidadandtobago.gif" height="60" width="60">
-  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-trinidadandtobago.gif" height="60" width="60">
-  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-trinidadandtobago.gif" height="60" width="60">
-</p>
 
 <div align="center">
   <table>
     <tr>
-      <td style="vertical-align: top; padding-right: 30px;" width="60%">
+      <td style="vertical-align: top; padding-right: 80px;" width="80%">
         <p align="left">
 <!--♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess --> 
  <h4 align="center">
@@ -340,9 +344,6 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
   />
 </picture>
       
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <h4 align="left">
 </h4>
@@ -350,6 +351,8 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
