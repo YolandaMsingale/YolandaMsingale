@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/fa58f32c-24c3-40a7-bcb9-c84d74ac8da8)
 <!-- 💬 GREETING TITLE SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=GREETINGS" alt="Greeting Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=ABOUT ME" alt="Greeting Typing SVG">
 </p>
 
 <div align="center">
