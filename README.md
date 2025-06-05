@@ -42,6 +42,7 @@
     <tr>
       <td style="vertical-align: top; padding-right: 30px;" width="60%">
         <p align="left">
+          
 #### 📚 STUDENT REGISTRATION SYSTEM *(C# Windows Forms)*  
 Built using OOP principles and a clean Windows Forms interface for student management.  
 🔗 [View Project](https://github.com/YolandaMsingale/Programming-Project-CSHARP.git)
@@ -117,7 +118,6 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 <img src="https://i.imgur.com/ozEwbHs.gif">
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
   <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,html,css,bootstrap,nodejs,react,mysql,postgres,mongodb,sqlite,docker,aws,azure,figma,git,vscode,androidstudio,spring" />
    <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
 </h4>
