@@ -144,25 +144,20 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
-
-<!-- 📏 LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- 💬 CONTACT TITLE SVG -->
-
-
-
-
- 
-      
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=GAMES" alt="Contact Typing SVG">
+  <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
+    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
+  </a>
 </p>
 
+<!-- 📏 LINE -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
+<!-- 💬 GAMES TITLE SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=GAMES" alt="GAMES Typing SVG">
+</p>
 <div align="center">
   <table>
     <tr>
@@ -352,10 +347,10 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
-
-
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
+</p>
+
 
 
