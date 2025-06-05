@@ -154,6 +154,11 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
+<!-- 💬 GREETING TITLE SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=Let's+Connect!" alt="Greeting Typing SVG">
+</p>
+
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -169,18 +174,7 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
   />
 </picture>
       
-<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
-<h4 align="left">
-</h4>
- 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
-</p>
 
 
 
