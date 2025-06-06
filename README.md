@@ -94,6 +94,7 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 
 <p align="center">
   - 🌐 <strong>Portfolio:</strong> <a href="https://neon-cheesecake-cf22c2.netlify.app/">My Portfolio Website</a><br>
+  - 🌍 <strong>Live GitHub Site:</strong> <a href="https://yolandamsingale.github.io/Github-Labs-Project/">View My GitHub Labs Project</a><br>
   - 🧑‍💻 <strong>Codedex Profile:</strong> <a href="https://www.codedex.io/@YolandaMsingale">@YolandaMsingale</a>
 </p>
 
