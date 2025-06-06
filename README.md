@@ -1,6 +1,4 @@
-
 ![github-header-image](https://github.com/user-attachments/assets/28420607-4fcf-480c-ba58-392bf7f87947)
-
 
 <!-- 💬 GREETING TITLE SVG -->
 <p align="center">
@@ -50,7 +48,7 @@
     <tr>
       <td style="vertical-align: top; padding-right: 30px;" width="60%">
         <p align="left">
-          
+
 #### 📚 STUDENT REGISTRATION SYSTEM *(C# Windows Forms)*  
 Built using OOP principles and a clean Windows Forms interface for student management.  
 🔗 [View Project](https://github.com/YolandaMsingale/Programming-Project-CSHARP.git)
@@ -62,6 +60,10 @@ Designed a functional and normalized database for order processing and inventory
 #### ☕ JAVA-BASED DESKTOP APP *(JDBC, PostgreSQL, JSP)*  
 An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for managing dynamic data with PostgreSQL.  
 🔗 [View Project](https://github.com/YolandaMsingale/Java-Project.git)
+
+#### 🌐 LIVE GITHUB PAGES SITE *(GitHub Labs Capstone Project)*  
+Showcases my practical skills in GitHub fundamentals, version control, deployment, and automation.  
+🔗 [View Live Site](https://yolandamsingale.github.io/Github-Labs-Project/) | [View Project](https://github.com/YolandaMsingale/Github-Labs-Project.git)
 
 #### 🌍 EXPLORE MORE  
 📂 [All My GitHub Repositories](https://github.com/YolandaMsingale?tab=repositories)
@@ -94,7 +96,6 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 
 <p align="center">
   - 🌐 <strong>Portfolio:</strong> <a href="https://neon-cheesecake-cf22c2.netlify.app/">My Portfolio Website</a><br>
-  - 🌍 <strong>Live GitHub Site:</strong> <a href="https://yolandamsingale.github.io/Github-Labs-Project/">View My GitHub Labs Project</a><br>
   - 🧑‍💻 <strong>Codedex Profile:</strong> <a href="https://www.codedex.io/@YolandaMsingale">@YolandaMsingale</a>
 </p>
 
@@ -174,4 +175,4 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture> 
+</picture>
