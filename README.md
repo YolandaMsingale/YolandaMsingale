@@ -27,7 +27,7 @@
         </p>
       </td>
       <td width="40%">
-       <img src="https://github.com/user-attachments/assets/012bf393-5b6d-459a-b14c-aff71f03c8cf" height="290" width="390">
+       <img src="https://github.com/user-attachments/assets/012bf393-5b6d-459a-b14c-aff71f03c8cf" height="300" width="390">
       </td>
     </tr>
   </table>
@@ -36,8 +36,8 @@
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
- 
-<!-- 💬 PROJECTS TITLE SVG / Reuse or Customize -->
+
+<!-- 💬 PROJECTS TITLE SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=PROJECTS" alt="Projects Typing SVG">
 </p>
@@ -69,10 +69,10 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
         </p>
       </td>
       <td width="40%">
-         <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
+         <!--🖼️SVG BANNER -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
+<!--🔳TERMINAL -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
       </td>
@@ -121,32 +121,30 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
 <!--🤔INTERESTTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
-<!--🖼️🖼️INTERSTLOGOS-->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,html,css,bootstrap,nodejs,react,mysql,postgres,mongodb,sqlite,docker,aws,azure,figma,git,vscode,androidstudio,spring" />
-</h4>
 
- 
+<!--🖼️🖼️INTEREST LOGOS IN ROWS OF SIX-->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,html" /><br>
+  <img src="https://skillicons.dev/icons?i=css,bootstrap,nodejs,react,mysql,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,docker,aws,azure,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,spring" />
+</p>
+
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!--📊💬STATTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!--📊STATSGRAPH, LANGUAGES & STREAK GRAPH IN ONE ROW-->
 <p align="center">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
-
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200">
-
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200" height="200"/>
   <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
-    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
+    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6" height="200"/>
   </a>
+  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200" height="200"/>
 </p>
 
 <!-- 📏 LINE -->
@@ -159,7 +157,7 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=Let's+Connect!" alt="Greeting Typing SVG">
 </p>
 
- <picture>
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -173,8 +171,3 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-      
-
-
-
-
