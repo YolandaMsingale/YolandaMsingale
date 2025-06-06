@@ -27,7 +27,7 @@
           <em>⚡ <strong>Fun Fact:</strong> I spend more time debugging than sleeping — and I love every second of it! 😆</em>
         </p>
       </td>
-      <td width="40%">
+      <td width="50%">
 
 ![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/user-attachments/assets/02554289-c26e-4fa2-92d3-f927647d79d6)   
       </td>
