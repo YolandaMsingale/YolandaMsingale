@@ -173,4 +173,4 @@ An interactive desktop app using **Swing**, **JDBC**, and **Servlets** for manag
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> 
