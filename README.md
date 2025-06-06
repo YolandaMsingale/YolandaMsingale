@@ -28,7 +28,8 @@
         </p>
       </td>
       <td width="40%">
-       <img src="https://github.com/user-attachments/assets/012bf393-5b6d-459a-b14c-aff71f03c8cf" height="300" width="390">
+
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/user-attachments/assets/02554289-c26e-4fa2-92d3-f927647d79d6)   
       </td>
     </tr>
   </table>
