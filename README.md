@@ -34,15 +34,10 @@
   </table>
 </div>
 
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!-- 💬 PROJECTS TITLE SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=PROJECTS" alt="Projects Typing SVG">
 </p>
-
 <div align="center">
   <table>
     <tr>
@@ -85,10 +80,6 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
   </table>
 </div>
 
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!-- 💬 CONTACT TITLE SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=CONTACT+ME" alt="Contact Typing SVG">
@@ -115,10 +106,6 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
   </a>
 </p>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
-
 <!--🐱CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
@@ -135,10 +122,6 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
   <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,spring" />
 </p>
 
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!--📊💬STATTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
@@ -150,11 +133,6 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6" height="200"/>
   </a>
   <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200" height="200"/>
-</p>
-
-<!-- 📏 LINE -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 <!-- 💬 GREETING TITLE SVG -->
