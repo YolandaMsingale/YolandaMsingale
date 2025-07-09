@@ -1,14 +1,11 @@
 ![github-header-image](https://github.com/user-attachments/assets/28420607-4fcf-480c-ba58-392bf7f87947)
 
+---
+
 <!-- 💬 GREETING TITLE SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=ABOUT'ME" alt="Greeting Typing SVG">
 </p>
-
-<div align="center">
-  <h3>🎓 Soon To Be Graduate @Belgium Campus Itversity</h3>
-  <p>📍 WestRand, Gauteng</p>
-</div>
 
 <div align="center">
   <table>
@@ -34,10 +31,13 @@
   </table>
 </div>
 
+---
+
 <!-- 💬 PROJECTS TITLE SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=PROJECTS" alt="Projects Typing SVG">
 </p>
+
 <div align="center">
   <table>
     <tr>
@@ -80,6 +80,8 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
   </table>
 </div>
 
+---
+
 <!-- 💬 CONTACT TITLE SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=CONTACT+ME" alt="Contact Typing SVG">
@@ -110,9 +112,12 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-<!--🤔INTERESTTITLE-->
+---
+
+<!-- 💬 CONTACT TITLE SVG -->
 <p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=INTERESTS" alt="Contact Typing SVG">
+</p>
 
 <!--🖼️🖼️INTEREST LOGOS IN ROWS OF SIX-->
 <p align="center">
@@ -122,18 +127,24 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
   <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,spring" />
 </p>
 
-<!--📊💬STATTITLE-->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+---
 
-<!--📊STATSGRAPH, LANGUAGES & STREAK GRAPH IN ONE ROW-->
+<!--📊💬STATTITLE-->
+<!-- 💬 CONTACT TITLE SVG -->
 <p align="center">
-  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200" height="200"/>
-  <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=STATS" alt="Contact Typing SVG">
+</p>
+
+<!--📊STATSGRAPH, LANGUAGES & STREAK GRAPH IN ONE ROW - CORRECTED USERNAME -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YolandaMsingale&show_icons=true&theme=merko&border_color=599200" height="200"/>
+ <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6" height="200"/>
   </a>
-  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200" height="200"/>
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200" height="200"/>
 </p>
+
+---
 
 <!-- 💬 GREETING TITLE SVG -->
 <p align="center">
