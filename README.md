@@ -121,13 +121,11 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=INTERESTS" alt="Contact Typing SVG">
 </p>
 
-<!--🖼️🖼️INTEREST LOGOS IN ROWS OF SIX-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,html" /><br>
-  <img src="https://skillicons.dev/icons?i=css,bootstrap,nodejs,react,mysql,postgres" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,docker,aws,azure,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,spring" />
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
+<br>
+<br>     
 
 ---
 
