@@ -5,7 +5,9 @@
 <!-- 💬 GREETING TITLE SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=ABOUT'ME" alt="Greeting Typing SVG">
+  <img align="center" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" height="90">
 </p>
+
 
 <div align="center">
   <table>
