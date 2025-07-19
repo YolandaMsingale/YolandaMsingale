@@ -110,10 +110,6 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
   </a>
 </p>
 
-<!--🐱CAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
 ---
 
 <!-- 💬 CONTACT TITLE SVG -->
@@ -149,6 +145,10 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
 <!-- 💬 GREETING TITLE SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=Let's+Connect!" alt="Greeting Typing SVG">
+</p>
+
+<p align="center">
+  Whether you're a fellow developer, recruiter, collaborator, or just someone passionate about tech — I'd love to connect! Let's share ideas, build cool projects, and grow together in this ever-evolving digital world. Feel free to drop a message or follow me on any of my platforms!
 </p>
 
 <picture>
