@@ -147,9 +147,12 @@ Showcases my practical skills in GitHub fundamentals, version control, deploymen
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=%2379A500&height=70&duration=3000&center=true&vCenter=true&lines=Let's+Connect!" alt="Greeting Typing SVG">
 </p>
 
-<p align="center">
-  Whether you're a fellow developer, recruiter, collaborator, or just someone passionate about tech — I'd love to connect! Let's share ideas, build cool projects, and grow together in this ever-evolving digital world. Feel free to drop a message or follow me on any of my platforms!
-</p>
+<div align="center" style="max-width: 800px; margin: auto; background-color: #f0f4f5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
+  <strong>Whether you're a fellow developer, recruiter, collaborator, or just someone passionate about tech</strong> — I'd love to connect! 🌍<br><br>
+  Let's share ideas, build cool projects, and grow together in this ever-evolving digital world.  
+  <br><br>
+  <em>Feel free to drop a message or follow me on any of my platforms!</em> 💬💻🌐
+</div>
 
 <picture>
   <source
